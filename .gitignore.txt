@@ -1,0 +1,15 @@
+# Entornos virtuales
+.venv/
+env1-nn/
+
+# Dataset grande
+PlantVillage/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Checkpoints de notebooks
+.ipynb_checkpoints/
